@@ -3096,7 +3096,7 @@ body {
 }
 
 .content {
-  padding: 50px;
+  margin: 50px;
   /*    text-align: center;*/
 }
 
@@ -3135,5 +3135,20 @@ body {
 .btn.btn-success {
   background-color: #1AB394;
   color: #fff;
+}
+
+.center {
+  -webkit-box-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+          justify-content: center;
+}
+
+.calculated {
+  width: 300px;
+  height: 400px;
+  overflow: auto;
 }
 

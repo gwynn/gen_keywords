@@ -21,6 +21,9 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
+        "angular-sanitize": "^1.7.9",
+        "angularjs-bootstrap": "^1.1.5",
+        "bootstrap": "^4.4.1",
         "font-awesome": "^4.7.0"
     }
 }
